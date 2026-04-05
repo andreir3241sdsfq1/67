@@ -1,13 +1,9 @@
-// ═══════════════════════════════════════════════════════════════
-// BUNDLE MESSENGER - SERVER CONFIGURATION
-// ═══════════════════════════════════════════════════════════════
-
 window.BUNDLE_CONFIG = {
   SUPABASE_URL: 'https://fpfxskklektfnbftpafm.supabase.co',
   SUPABASE_KEY: 'sb_publishable_sfbWRnsUpww-w8cnRBsdHg_RvCl6Bib',
   STORAGE_BUCKET: 'bundle-images',
-  ADMIN_NICK: 'chikatilo',
-  ADMIN_USERNAME: 'chikatilo'
+  ADMIN_NICK: 'neked',
+  ADMIN_USERNAME: 'neked'
 };
 
 window.BUNDLE_EMAILJS = {
