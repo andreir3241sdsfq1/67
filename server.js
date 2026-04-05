@@ -2,8 +2,8 @@ window.BUNDLE_CONFIG = {
   SUPABASE_URL: 'https://fpfxskklektfnbftpafm.supabase.co',
   SUPABASE_KEY: 'sb_publishable_sfbWRnsUpww-w8cnRBsdHg_RvCl6Bib',
   STORAGE_BUCKET: 'bundle-images',
-  ADMIN_NICK: 'neked',
-  ADMIN_USERNAME: 'neked'
+  ADMIN_NICK: '',
+  ADMIN_USERNAME: ''
 };
 
 window.BUNDLE_EMAILJS = {
